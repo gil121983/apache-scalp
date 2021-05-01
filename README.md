@@ -43,6 +43,7 @@ usage:  ./scalp.py [--log|-l log_file] [--filters|-f filter_file]
                      the Apache logs using * as wild-card
                      ex: 04/Apr/2008:15:45;*/Mai/2008
                      if not specified at the end, the max or min are taken
+   --json      |-j   generate JSON file
    --html      |-h:  generate an HTML output
    --xml       |-x:  generate an XML output
    --text      |-t:  generate a simple text output (default)
